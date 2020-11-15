@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { connect } from 'react-redux';
 import { buyCake } from '../redux';
 
-function NewCakeContainer({ cakeCount, buyCake}) {
+function NewCakeContainer({ cakeCount, buyCake }) {
   const [purchaseAmount, setPurchaseAmount] = useState(1);
   return (
     <div>

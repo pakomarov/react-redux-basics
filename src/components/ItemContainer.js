@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { buyCake } from '../redux';
 import { buyIcecream } from '../redux';
 
-function ItemContainer({itemCount, buyItem}) {
+function ItemContainer({ itemCount, buyItem }) {
   return (
     <div>
       <h2>Item - {itemCount}</h2>
