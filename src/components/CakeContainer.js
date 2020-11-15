@@ -11,7 +11,7 @@ function CakeContainer({ cakeCount, buyCake}) {
   );
 }
 
-const mapStateToProps = state => ({ cakeCount: state.cakeCount });
+const mapStateToProps = state => ({ cakeCount: state.cake.cakeCount });
 
 const mapDispatchToProps = dispatch => ({ buyCake: () => dispatch(buyCake())});
 
