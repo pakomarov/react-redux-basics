@@ -1,3 +1,5 @@
+### Tutorial: "[React Redux Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)" by [Codevolution](https://www.youtube.com/c/Codevolution)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
